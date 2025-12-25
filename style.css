@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Anton&family=Caveat+Brush&family=Great+Vibes&family=Jersey+10&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Serif+Myanmar:wght@100;200;300;400;500;600;700;800;900&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Shadows+Into+Light+Two&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Berkshire+Swash&family=Caveat+Brush&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Great+Vibes&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Jersey+10&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Serif+Myanmar:wght@100;200;300;400;500;600;700;800;900&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Shadows+Into+Light+Two&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
 *{
   margin: 0;
@@ -7,8 +7,7 @@
 body {
   height: 100vh;
   background: #0a0f2c;
-  font-family: "Great Vibes", cursive;
-  font-weight: 400;
+  font-family: "Berkshire Swash", serif;
   font-style: normal;
   overflow: hidden;
 }
@@ -35,6 +34,7 @@ body::before {
 }
 .title h1{
   font-size: 4rem;
+  font-family: "Great Vibes", cursive;
 }
 .title p{
   padding: 15px 0px;
